@@ -1,0 +1,7 @@
+{
+    "title": "旅行计划",
+    "plugins": [
+        "qrcode",
+        "image-zoom"
+    ]
+}
