@@ -14,33 +14,33 @@
 * <div><font color="#3A7B99">颜色浓淡+加减颜色明度</font> --> <font color="orange">调自然饱和度+饱和度</font></div>
 
 #### 曲线
-* <div><font color="#8CAEDE">曲线参数</font> --> <font color="orange">分别是调整最阴影+暗调+亮调+高光部的明暗层次</font></divi>
-* <div><font color="#8CAEDE">点曲线</font> --> <font color="orange">是调整黑白灰的明暗层次</font></divi>
-* <div><font color="#8CAEDE">红绿蓝</font> --> <font color="orange">是调整三原色的颜色互相转换</font></divi>
+* <div><font color="#8CAEDE">曲线参数</font> --> <font color="orange">分别是调整最阴影+暗调+亮调+高光部的明暗层次</font></div>
+* <div><font color="#8CAEDE">点曲线</font> --> <font color="orange">是调整黑白灰的明暗层次</font></div>
+* <div><font color="#8CAEDE">红绿蓝</font> --> <font color="orange">是调整三原色的颜色互相转换</font></div>
 
 #### 概念
 > 整张照片是由三原色组成的
-* <div><font color="#46CDD0">三原色同时提亮</font> --> <font color="orange">提亮明度的作用</font></divi>
-* <div><font color="#46CDD0">三原色同时压暗</font> --> <font color="orange">压暗明度的作用</font></divi>
-* <div><font color="#46CDD0">三原色提高亮部+压低暗部</font> --> <font color="orange">整体加对比的作用</font></divi>
-* <div><font color="#46CDD0">压暗亮部+提亮暗部</font> --> <font color="orange">整体减弱反差</font></divi>
+* <div><font color="#46CDD0">三原色同时提亮</font> --> <font color="orange">提亮明度的作用</font></div>
+* <div><font color="#46CDD0">三原色同时压暗</font> --> <font color="orange">压暗明度的作用</font></div>
+* <div><font color="#46CDD0">三原色提高亮部+压低暗部</font> --> <font color="orange">整体加对比的作用</font></div>
+* <div><font color="#46CDD0">压暗亮部+提亮暗部</font> --> <font color="orange">整体减弱反差</font></div>
 
 #### 混色器
-* <div><font color="#ACEDD9">改变颜色</font> --> <font color="orange">调色相</font></divi>
-* <div><font color="#ACEDD9">改变颜色浓淡</font> --> <font color="orange">调饱和度</font></divi>
-* <div><font color="#ACEDD9">改变颜色明暗</font> --> <font color="orange">调明亮度</font></divi>
+* <div><font color="#ACEDD9">改变颜色</font> --> <font color="orange">调色相</font></div>
+* <div><font color="#ACEDD9">改变颜色浓淡</font> --> <font color="orange">调饱和度</font></div>
+* <div><font color="#ACEDD9">改变颜色明暗</font> --> <font color="orange">调明亮度</font></div>
 
 #### 校准
-* <div><font color="#5b7288">红原色</font> --> <font color="orange">色相控制从洋红到橙黄的范围饱和度，控制红原色单个通道饱和</font></divi>
-* <div><font color="#5b7288">绿原色</font> --> <font color="orange">色相控制从黄色到青色的范围饱和度，控制绿原色单个通道饱和</font></divi>
-* <div><font color="#5b7288">蓝原色</font> --> <font color="orange">色相控制从青色到紫色的范围饱和度，控制蓝原色单个通道饱和</font></divi>
+* <div><font color="#F5DAAB">红原色</font> --> <font color="orange">色相控制从洋红到橙黄的范围饱和度，控制红原色单个通道饱和</font></div>
+* <div><font color="#F5DAAB">绿原色</font> --> <font color="orange">色相控制从黄色到青色的范围饱和度，控制绿原色单个通道饱和</font></div>
+* <div><font color="#F5DAAB">蓝原色</font> --> <font color="orange">色相控制从青色到紫色的范围饱和度，控制蓝原色单个通道饱和</font></div>
 
 #### 效果
-* <div><font color="#017D6F">四角加减暗角</font> --> <font color="orange">调晕影，加噪点</font> --> <font color="#FD836E">调颗粒</font></divi>
+* <div><font color="#017D6F">四角加减暗角</font> --> <font color="orange">调晕影，加噪点</font> --> <font color="#FD836E">调颗粒</font></div>
 
 #### 光学
-* <div><font color="#8AD088">调整镜头变形</font> --> <font color="orange">调扭曲度</font></divi>
-* <div><font color="#8AD088">四角加减暗角</font> --> <font color="orange">调晕影</font></divi>
+* <div><font color="#8AD088">调整镜头变形</font> --> <font color="orange">调扭曲度</font></div>
+* <div><font color="#8AD088">四角加减暗角</font> --> <font color="orange">调晕影</font></div>
 
 
 ### 26个调色口诀
