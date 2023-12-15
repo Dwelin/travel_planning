@@ -31,9 +31,9 @@
 * <div><font color="#ACEDD9">改变颜色明暗</font> --> <font color="orange">调明亮度</font></divi>
 
 #### 校准
-* <div><font color="#F5DAAB">红原色</font> --> <font color="orange">色相控制从洋红到橙黄的范围饱和度，控制红原色单个通道饱和</font></divi>
-* <div><font color="#F5DAAB">绿原色</font> --> <font color="orange">色相控制从黄色到青色的范围饱和度，控制绿原色单个通道饱和</font></divi>
-* <div><font color="#F5DAAB">蓝原色</font> --> <font color="orange">色相控制从青色到紫色的范围饱和度，控制蓝原色单个通道饱和</font></divi>
+* <div><font color="#5b7288">红原色</font> --> <font color="orange">色相控制从洋红到橙黄的范围饱和度，控制红原色单个通道饱和</font></divi>
+* <div><font color="#5b7288">绿原色</font> --> <font color="orange">色相控制从黄色到青色的范围饱和度，控制绿原色单个通道饱和</font></divi>
+* <div><font color="#5b7288">蓝原色</font> --> <font color="orange">色相控制从青色到紫色的范围饱和度，控制蓝原色单个通道饱和</font></divi>
 
 #### 效果
 * <div><font color="#017D6F">四角加减暗角</font> --> <font color="orange">调晕影，加噪点</font> --> <font color="#FD836E">调颗粒</font></divi>
