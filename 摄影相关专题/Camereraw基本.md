@@ -3,7 +3,7 @@
 ---
 
 ### 调色口诀
-* <font color="#3A7B99">画面冷暖</font>---><font color="orange">调色温</font>
+* <div><font color="#3A7B99">画面冷暖</font>---><font color="orange">调色温</font></div>
 * <font color="#3A7B99">整体基调</font>---><font color="orange">调色调</font>
 * <font color="#3A7B99">整体明暗</font>---><font color="orange">调曝光</font>
 * <font color="#3A7B99">画面立体</font>---><font color="orange">调对比</font>
