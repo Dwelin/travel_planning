@@ -5,6 +5,8 @@
 ### 目录：
 + [docker命令](#docker命令)
 + [Dockerfile语法](#Dockerfile语法)
++ [docker-compose.yml命令](#docker_compose_yml)
++ [docker-compose命令](#docker_compose)
 
 ---
 
@@ -37,3 +39,21 @@
 | USER | 指定用户 |
 | VOLUME | mount point |
 
+#### <span id='docker_compose_yml'>docker-compose.yml常用命令</span>
+| 命令 | 用途 |
+| :--- | :--- |
+| build | 本地创建镜像 |
+| command | 覆盖缺省命令 |
+| depends_on | 连接容器 |
+| ports | 暴露端口 |
+| volumes | 卷 |
+| image | pull镜像 |
+
+#### <span id='docker_compose'>docker-compose命令</span>
+| 命令 | 用途 |
+| :--- | :--- |
+| up | 启动服务 |
+| stop | 停止服务 |
+| rm | 删除服务中的各个容器 |
+| logs | 观察各个容器的日志 |
+| ps | 列出服务相关的容器 |
