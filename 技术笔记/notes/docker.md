@@ -8,11 +8,12 @@
 + [docker-compose.yml命令](#docker_compose_yml)
 + [docker-compose命令](#docker_compose)
 
----
+-------
 
 #### docker命令
+
 | 命令 | 用途 |
-|:---:|:---:|
+|:-----|:-----|
 | docker pull | 获取image |
 | docker build | 创建image | 
 | docker images | 列出image |
@@ -23,9 +24,11 @@
 | docker cp | 在host和container之间拷贝文件 |
 | docker commit | 保存改动为新的image |
 
+-------
 #### Dockerfile语法
+
 | 命令 | 用途 |
-|:---:|:---:|
+|:-----|:-----|
 | FROM | base image |
 | RUM | 执行命令 |
 | ADD | 添加文件 |
@@ -39,9 +42,11 @@
 | USER | 指定用户 |
 | VOLUME | mount point |
 
+-------
 #### <span id='docker_compose_yml'>docker-compose.yml常用命令</span>
+
 | 命令 | 用途 |
-|:---:|:---:|
+|:-----|:-----|
 | build | 本地创建镜像 |
 | command | 覆盖缺省命令 |
 | depends_on | 连接容器 |
@@ -49,9 +54,11 @@
 | volumes | 卷 |
 | image | pull镜像 |
 
+-------
 #### <span id='docker_compose'>docker-compose命令</span>
+
 | 命令 | 用途 |
-|:---:|:---:|
+|:-----|:-----|
 | up | 启动服务 |
 | stop | 停止服务 |
 | rm | 删除服务中的各个容器 |
