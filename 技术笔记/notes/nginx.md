@@ -1,4 +1,4 @@
-> [notes](../index.md)->nginx
+> [技术笔记](../index.md)->nginx
 
 ---
 
