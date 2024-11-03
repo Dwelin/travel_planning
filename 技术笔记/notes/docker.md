@@ -4,7 +4,7 @@
 
 ### 目录：
 + [docker命令](#docker命令)
-+ [Dockerfile语法](#Dockerfile语法)
++ [Dockerfile语法](#dockerfile)
 + [docker-compose.yml命令](#docker_compose_yml)
 + [docker-compose命令](#docker_compose)
 
@@ -25,7 +25,7 @@
 | docker commit | 保存改动为新的image |
 
 -------
-#### Dockerfile语法
+#### <span id='dockerfile'>Dockerfile语法</span>
 
 | 命令 | 用途 |
 |:-----|:-----|
